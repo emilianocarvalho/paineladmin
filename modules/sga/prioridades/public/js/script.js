@@ -1,9 +1,9 @@
 /**
  * Novo SGA - Prioridades
- * @author Rogerio Lino <rogeriolino@gmail.com>
+ * @author Alisson da Costa <alisson@procon.pb.gov.br>
  */
 var SGA = SGA || {};
 
 SGA.Prioridades = {
-    
+  
 };
